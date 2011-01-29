@@ -2,7 +2,6 @@
 
 # taken from http://newsgroups.derkeiler.com/Archive/Comp/comp.lang.ruby/2009-04/msg01041.html
 
-gem 'utf8_utils'
 require 'utf8_utils'
 
 module WithoutAccents
