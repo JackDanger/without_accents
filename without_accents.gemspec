@@ -6,11 +6,11 @@ Gem::Specification.new do |s|
   s.name        = "without_accents"
   s.version     = WithoutAccents::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.authors     = ["Jack Danger Canty"]
+  s.email       = ["rubygems@6brand.com"]
+  s.homepage    = "http://github.com/JackDanger/without_accents"
+  s.summary     = %q{Strip accented characters from a text, replacing with their UTF-7-compatible counterparts}
+  s.description = %q{Strip accented characters from a text, replacing with their UTF-7-compatible counterparts}
 
   s.rubyforge_project = "without_accents"
 
