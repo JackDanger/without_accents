@@ -6,6 +6,9 @@ gem 'utf8_utils'
 require 'utf8_utils'
 
 module WithoutAccents
+
+  VERSION = "0.8.5"
+
   def without_accents
 
     string = tidy_bytes
