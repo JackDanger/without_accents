@@ -6,7 +6,7 @@ require 'utf8_utils'
 
 module WithoutAccents
 
-  VERSION = "0.9.0"
+  VERSION = "0.9.1"
 
   def without_accents
 
